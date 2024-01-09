@@ -24,4 +24,4 @@ My second project was working on a search engine immune to SEO [(demos)](https:/
 
 ---
 
-Last summer, I interned at [Beeper](https://github.com/beeper) where I built [Widgets](https://blog.beeper.com/p/build-widgets-with-beeper) and worked on self-hosting. See pinned repos.
+Last summer, I interned at [Beeper](https://github.com/beeper), where I built [Widgets](https://blog.beeper.com/p/build-widgets-with-beeper) and worked on self-hosting. See pinned repos.
